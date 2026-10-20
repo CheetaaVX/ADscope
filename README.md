@@ -201,6 +201,4 @@ Treat reports as sensitive: they may contain usernames, distinguished names, gro
 
 Use ADscope only on systems and Active Directory environments you own or are explicitly authorized to assess. Do not use it to access or collect data from systems without permission. Protect generated reports and credentials.
 
-## License
 
-No license is specified here yet. Add a `LICENSE` file and update this section before presenting the project as open source under a particular license.
